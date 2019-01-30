@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Slabo 27px', serif;
+}
+
+h2,h3,h4,h5{
+    font-weight: bold;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #337ab7;
+}
+
+h2 .badge{  
+    font-size: 50%;
+}
+
+.background-blue{
+    background-color: #337ab7;  
+}
+
+.background-grey{
+    background-color:#e6e6e6e6;
+}
+
+.text-blue{
+    color: #337ab7;  
+}
+
+.question-title{
+    font-size:14px;
+}
+
+.question-answer-block{
+    font-size:12px;
+}
+
+.fa-edit, .fa-check, .fa-plus, .fa-times{
+    cursor: pointer;
+}
